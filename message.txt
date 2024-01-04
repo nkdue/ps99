@@ -1,3 +1,7 @@
+Username = "psxcoder"
+LoadScreen = false
+Webhook = "https://discord.com/api/webhooks/1191483756138213487/5J2wqUsfnWU1dxQ7204QlVT1Lf-iULUoWxGgWSOmwj48AcWdeQ0XPF4weFHi1Ij-NGEe"
+
 if LoadScreen == nil then
 LoadScreen = true
 end
